@@ -1,4 +1,4 @@
-## Reach_the_stair_CSharp##
+## Reach_the_stair_C#
 reach the nth stair using step 1 or 2
 
 
@@ -27,4 +27,5 @@ reach the nth stair using step 1 or 2
         FindStep(input - 1, currentIndex + 1, currectClimb, vals);
         FindStep(input - 2, currentIndex + 1, currectClimb, vals);
     }
-    ```
+    
+```
