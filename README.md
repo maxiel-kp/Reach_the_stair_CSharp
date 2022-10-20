@@ -1,7 +1,7 @@
 ## Reach_the_stair_CSharp##
 reach the nth stair using step 1 or 2
 
-
+## Usage ##
 ```csharp
     public static void FindStep(int input, int currentIndex, int[] currectClimb, int[] vals)
     {
