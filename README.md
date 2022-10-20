@@ -1,5 +1,5 @@
 ## Reach_the_stair_C#
-reach the nth stair using step 1 or 2
+reach the nth stair using step 1 or  2
 
 ## Usage ##
 ```csharp
