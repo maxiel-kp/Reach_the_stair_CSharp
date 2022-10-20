@@ -1,0 +1,15 @@
+C:\Users\Maxiel\source\repos\KunlapathPaengsa\Reach_the_stair_CSharp\bin\Debug\net6.0\Reach_the_stair_CSharp.exe
+C:\Users\Maxiel\source\repos\KunlapathPaengsa\Reach_the_stair_CSharp\bin\Debug\net6.0\Reach_the_stair_CSharp.deps.json
+C:\Users\Maxiel\source\repos\KunlapathPaengsa\Reach_the_stair_CSharp\bin\Debug\net6.0\Reach_the_stair_CSharp.runtimeconfig.json
+C:\Users\Maxiel\source\repos\KunlapathPaengsa\Reach_the_stair_CSharp\bin\Debug\net6.0\Reach_the_stair_CSharp.dll
+C:\Users\Maxiel\source\repos\KunlapathPaengsa\Reach_the_stair_CSharp\bin\Debug\net6.0\Reach_the_stair_CSharp.pdb
+C:\Users\Maxiel\source\repos\KunlapathPaengsa\Reach_the_stair_CSharp\obj\Debug\net6.0\Reach_the_stair_CSharp.csproj.AssemblyReference.cache
+C:\Users\Maxiel\source\repos\KunlapathPaengsa\Reach_the_stair_CSharp\obj\Debug\net6.0\Reach_the_stair_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxiel\source\repos\KunlapathPaengsa\Reach_the_stair_CSharp\obj\Debug\net6.0\Reach_the_stair_CSharp.AssemblyInfoInputs.cache
+C:\Users\Maxiel\source\repos\KunlapathPaengsa\Reach_the_stair_CSharp\obj\Debug\net6.0\Reach_the_stair_CSharp.AssemblyInfo.cs
+C:\Users\Maxiel\source\repos\KunlapathPaengsa\Reach_the_stair_CSharp\obj\Debug\net6.0\Reach_the_stair_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Maxiel\source\repos\KunlapathPaengsa\Reach_the_stair_CSharp\obj\Debug\net6.0\Reach_the_stair_CSharp.dll
+C:\Users\Maxiel\source\repos\KunlapathPaengsa\Reach_the_stair_CSharp\obj\Debug\net6.0\refint\Reach_the_stair_CSharp.dll
+C:\Users\Maxiel\source\repos\KunlapathPaengsa\Reach_the_stair_CSharp\obj\Debug\net6.0\Reach_the_stair_CSharp.pdb
+C:\Users\Maxiel\source\repos\KunlapathPaengsa\Reach_the_stair_CSharp\obj\Debug\net6.0\Reach_the_stair_CSharp.genruntimeconfig.cache
+C:\Users\Maxiel\source\repos\KunlapathPaengsa\Reach_the_stair_CSharp\obj\Debug\net6.0\ref\Reach_the_stair_CSharp.dll
